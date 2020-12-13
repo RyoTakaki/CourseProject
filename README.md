@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/RyoTakaki/CourseProject/blob/main/SarcasmClassification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RyoTakaki/CourseProject/blob/main/SarcasmClassification.ipynb)
 
 
 # CourseProject
